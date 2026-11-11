@@ -1,9 +1,19 @@
 ---
 author: Tim Vaughan
-level: Intermediate
 title: Bacter Tutorial
 subtitle: Inferring ARGs from bacterial sequence data.
-beastversion: 2.5.0
+beastversion_tutorial: 2.5.0
+workflow: Advanced analysis
+status: current
+keywords:
+- coalescent
+- recombination
+- nucleotide
+packages:
+- bacter
+domains:
+- population genetics
+- epidemiology
 ---
 
 
